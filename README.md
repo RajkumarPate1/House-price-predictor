@@ -8,4 +8,4 @@ Composed insightful information with the help of scatter charts & histograms to 
 
 ## Tools Used
 
-![1200px](https://user-images.githubusercontent.com/94376039/149968029-e1cd4b2a-4f88-4106-ba8a-b2dff497c491.png)
+![1200px-Scikit_learn_logo_small](https://user-images.githubusercontent.com/94376039/149968268-3bba194b-1d37-491c-b68a-633561bcadf7.png)
